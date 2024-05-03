@@ -5,9 +5,9 @@ export default function Page() {
     <Blog
       t1={
         <Image
-          src="/720x400"
-          width={720}
-          height={400}
+          src="/Pantallazo 02-05-2024 17.28.39.png"
+          width={854}
+          height={527}
           alt="blog"
           className="lg:h-48 md:h-36 w-full object-cover object-center"
         />
